@@ -1,0 +1,9 @@
+C:\Users\mary\Documents\Visual Studio 2015\Projects\Lab_11-PersonClass\Lab_11-PersonClass\bin\Debug\Lab_11-PersonClass.exe.config
+C:\Users\mary\Documents\Visual Studio 2015\Projects\Lab_11-PersonClass\Lab_11-PersonClass\bin\Debug\Lab_11-PersonClass.exe
+C:\Users\mary\Documents\Visual Studio 2015\Projects\Lab_11-PersonClass\Lab_11-PersonClass\bin\Debug\Lab_11-PersonClass.pdb
+C:\Users\mary\Documents\Visual Studio 2015\Projects\Lab_11-PersonClass\Lab_11-PersonClass\obj\Debug\Lab_11-PersonClass.csprojResolveAssemblyReference.cache
+C:\Users\mary\Documents\Visual Studio 2015\Projects\Lab_11-PersonClass\Lab_11-PersonClass\obj\Debug\Lab_11-PersonClass.exe
+C:\Users\mary\Documents\Visual Studio 2015\Projects\Lab_11-PersonClass\Lab_11-PersonClass\obj\Debug\Lab_11-PersonClass.pdb
+C:\Users\mary\Documents\Visual Studio 2015\Projects\LAB_new\Lab_11-PersonClass\Lab_11-PersonClass\bin\Debug\Lab_11-PersonClass.exe.config
+C:\Users\mary\Documents\Visual Studio 2015\Projects\LAB_new\Lab_11-PersonClass\Lab_11-PersonClass\obj\Debug\Lab_11-PersonClass.exe
+C:\Users\mary\Documents\Visual Studio 2015\Projects\LAB_new\Lab_11-PersonClass\Lab_11-PersonClass\obj\Debug\Lab_11-PersonClass.pdb
